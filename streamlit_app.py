@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("kisah kasih di sekolah")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+  "  menceritakan tentang cinta yang muncul di lingkungan sekolah, di mana perasaan itu tumbuh di antara siswa-siswi yang saling berinteraksi dalam kegiatan belajar mengajar dan kegiatan ekstrakurikuler"
+    (
